@@ -23,7 +23,7 @@ The original code is based on MaNGOS, TrinityCore, and SunwellCore and has since
 Our main goal is to create a playable game server, offering a fully working in-game experience.
 
 Here are the main points we focus on:
-
+regerreherhreherrehrrhe
 * Stability
   * We make sure all changes pass the CIs before being merged into the master branch.
 
